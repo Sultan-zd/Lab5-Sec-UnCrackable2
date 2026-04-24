@@ -1,4 +1,4 @@
-# 🛡️ UnCrackable Level 2 - Advanced Reverse Engineering Lab
+# UnCrackable Level 2 - Advanced Reverse Engineering Lab
 
 Une analyse de sécurité poussée (Audit SAST et Analyse Binaire) de l'application vulnérable Android "UnCrackable Level 2". Ce projet illustre le passage de l'analyse Java à l'analyse de bibliothèques natives (C/C++) pour contourner des mécanismes de sécurité avancés.
 
